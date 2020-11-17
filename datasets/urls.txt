@@ -1,0 +1,11 @@
+Occupancy Detection
+	https://archive.ics.uci.edu/ml/datasets/Occupancy+Detection+#
+
+Healthy Older People
+	https://archive.ics.uci.edu/ml/datasets/Activity+recognition+with+healthy+older+people+using+a+batteryless+wearable+sensor
+
+BitcoinHeistRansomwareAddressDataset
+	https://archive.ics.uci.edu/ml/datasets/BitcoinHeistRansomwareAddressDataset
+
+Bank Marketing Data Set
+	http://archive.ics.uci.edu/ml/datasets/Bank+Marketing
