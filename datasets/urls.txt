@@ -12,3 +12,12 @@ Bank Marketing Data Set
 
 Montreal Crimes
 	http://donnees.ville.montreal.qc.ca/dataset/actes-criminels
+
+Credit Card Default
+	https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients
+
+Census Salary
+	https://www.census.gov/topics/income-poverty/income/data/datasets.html
+	
+Yeast
+	https://archive.ics.uci.edu/ml/datasets/Yeast
