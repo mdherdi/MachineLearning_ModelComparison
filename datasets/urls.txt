@@ -9,3 +9,6 @@ BitcoinHeistRansomwareAddressDataset
 
 Bank Marketing Data Set
 	http://archive.ics.uci.edu/ml/datasets/Bank+Marketing
+
+Montreal Crimes
+	http://donnees.ville.montreal.qc.ca/dataset/actes-criminels
